@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Oct 2021 15:21:00 +0800</pubDate>
-    <lastBuildDate>Sat, 30 Oct 2021 15:21:00 +0800</lastBuildDate>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 30 Oct 2021 15:32:17 +0800</pubDate>
+    <lastBuildDate>Sat, 30 Oct 2021 15:32:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -21,8 +21,8 @@
 
 </description>
         <pubDate>Thu, 30 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/30/Emissary001EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/30/Emissary001EN/</guid>
+        <link>/2021/09/30/Emissary001EN/</link>
+        <guid isPermaLink="true">/2021/09/30/Emissary001EN/</guid>
         
         <category>works</category>
         
@@ -41,8 +41,8 @@
 
 </description>
         <pubDate>Wed, 29 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/29/Emissary07EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/29/Emissary07EN/</guid>
+        <link>/2021/09/29/Emissary07EN/</link>
+        <guid isPermaLink="true">/2021/09/29/Emissary07EN/</guid>
         
         <category>works</category>
         
@@ -61,8 +61,8 @@
 
 </description>
         <pubDate>Tue, 28 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/28/Emissary08EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/28/Emissary08EN/</guid>
+        <link>/2021/09/28/Emissary08EN/</link>
+        <guid isPermaLink="true">/2021/09/28/Emissary08EN/</guid>
         
         <category>works</category>
         
@@ -81,8 +81,8 @@
 
 </description>
         <pubDate>Mon, 27 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/27/Emissart01EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/27/Emissart01EN/</guid>
+        <link>/2021/09/27/Emissart01EN/</link>
+        <guid isPermaLink="true">/2021/09/27/Emissart01EN/</guid>
         
         <category>works</category>
         
@@ -101,8 +101,8 @@
 
 </description>
         <pubDate>Sun, 26 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/26/Emisarry02EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/26/Emisarry02EN/</guid>
+        <link>/2021/09/26/Emisarry02EN/</link>
+        <guid isPermaLink="true">/2021/09/26/Emisarry02EN/</guid>
         
         <category>works</category>
         
@@ -121,8 +121,8 @@
 
 </description>
         <pubDate>Sat, 25 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/25/Emissary04EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/25/Emissary04EN/</guid>
+        <link>/2021/09/25/Emissary04EN/</link>
+        <guid isPermaLink="true">/2021/09/25/Emissary04EN/</guid>
         
         <category>works</category>
         
@@ -141,8 +141,8 @@
 
 </description>
         <pubDate>Fri, 24 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/24/Emissary03EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/24/Emissary03EN/</guid>
+        <link>/2021/09/24/Emissary03EN/</link>
+        <guid isPermaLink="true">/2021/09/24/Emissary03EN/</guid>
         
         <category>works</category>
         
@@ -161,8 +161,8 @@
 
 </description>
         <pubDate>Thu, 23 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/23/Emissary06EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/23/Emissary06EN/</guid>
+        <link>/2021/09/23/Emissary06EN/</link>
+        <guid isPermaLink="true">/2021/09/23/Emissary06EN/</guid>
         
         <category>works</category>
         
@@ -181,8 +181,8 @@
 
 </description>
         <pubDate>Wed, 22 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/22/Emissary05EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/22/Emissary05EN/</guid>
+        <link>/2021/09/22/Emissary05EN/</link>
+        <guid isPermaLink="true">/2021/09/22/Emissary05EN/</guid>
         
         <category>works</category>
         
@@ -201,8 +201,8 @@
 
 </description>
         <pubDate>Tue, 21 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/21/Emissary09EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/21/Emissary09EN/</guid>
+        <link>/2021/09/21/Emissary09EN/</link>
+        <guid isPermaLink="true">/2021/09/21/Emissary09EN/</guid>
         
         <category>works</category>
         
@@ -221,8 +221,8 @@
 
 </description>
         <pubDate>Mon, 20 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/20/Emissary10EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/20/Emissary10EN/</guid>
+        <link>/2021/09/20/Emissary10EN/</link>
+        <guid isPermaLink="true">/2021/09/20/Emissary10EN/</guid>
         
         <category>works</category>
         
@@ -241,8 +241,8 @@
 
 </description>
         <pubDate>Sun, 19 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/19/Emissary11EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/19/Emissary11EN/</guid>
+        <link>/2021/09/19/Emissary11EN/</link>
+        <guid isPermaLink="true">/2021/09/19/Emissary11EN/</guid>
         
         <category>works</category>
         
@@ -261,8 +261,8 @@
 
 </description>
         <pubDate>Fri, 17 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/17/MEG3EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/17/MEG3EN/</guid>
+        <link>/2021/09/17/MEG3EN/</link>
+        <guid isPermaLink="true">/2021/09/17/MEG3EN/</guid>
         
         <category>works</category>
         
@@ -281,8 +281,8 @@
 
 </description>
         <pubDate>Thu, 16 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/16/MEG4EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/16/MEG4EN/</guid>
+        <link>/2021/09/16/MEG4EN/</link>
+        <guid isPermaLink="true">/2021/09/16/MEG4EN/</guid>
         
         <category>works</category>
         
@@ -301,8 +301,8 @@
 
 </description>
         <pubDate>Wed, 15 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/15/MEG5EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/15/MEG5EN/</guid>
+        <link>/2021/09/15/MEG5EN/</link>
+        <guid isPermaLink="true">/2021/09/15/MEG5EN/</guid>
         
         <category>works</category>
         
@@ -321,8 +321,8 @@
 
 </description>
         <pubDate>Tue, 14 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/14/MEG6EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/14/MEG6EN/</guid>
+        <link>/2021/09/14/MEG6EN/</link>
+        <guid isPermaLink="true">/2021/09/14/MEG6EN/</guid>
         
         <category>works</category>
         
@@ -341,8 +341,8 @@
 
 </description>
         <pubDate>Mon, 13 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/13/MEG7EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/13/MEG7EN/</guid>
+        <link>/2021/09/13/MEG7EN/</link>
+        <guid isPermaLink="true">/2021/09/13/MEG7EN/</guid>
         
         <category>works</category>
         
@@ -361,8 +361,8 @@
 
 </description>
         <pubDate>Sun, 12 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/12/MEG8EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/12/MEG8EN/</guid>
+        <link>/2021/09/12/MEG8EN/</link>
+        <guid isPermaLink="true">/2021/09/12/MEG8EN/</guid>
         
         <category>works</category>
         
@@ -381,8 +381,8 @@
 
 </description>
         <pubDate>Sat, 11 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/11/MRG9EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/11/MRG9EN/</guid>
+        <link>/2021/09/11/MRG9EN/</link>
+        <guid isPermaLink="true">/2021/09/11/MRG9EN/</guid>
         
         <category>works</category>
         
@@ -401,8 +401,8 @@
 
 </description>
         <pubDate>Fri, 10 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/10/MEG10EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/10/MEG10EN/</guid>
+        <link>/2021/09/10/MEG10EN/</link>
+        <guid isPermaLink="true">/2021/09/10/MEG10EN/</guid>
         
         <category>works</category>
         
@@ -421,8 +421,8 @@
 
 </description>
         <pubDate>Thu, 09 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/09/MEG11EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/09/MEG11EN/</guid>
+        <link>/2021/09/09/MEG11EN/</link>
+        <guid isPermaLink="true">/2021/09/09/MEG11EN/</guid>
         
         <category>works</category>
         
@@ -441,8 +441,8 @@
 
 </description>
         <pubDate>Wed, 08 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/08/MEG12EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/08/MEG12EN/</guid>
+        <link>/2021/09/08/MEG12EN/</link>
+        <guid isPermaLink="true">/2021/09/08/MEG12EN/</guid>
         
         <category>works</category>
         
@@ -461,8 +461,8 @@
 
 </description>
         <pubDate>Tue, 07 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/07/MEG13EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/07/MEG13EN/</guid>
+        <link>/2021/09/07/MEG13EN/</link>
+        <guid isPermaLink="true">/2021/09/07/MEG13EN/</guid>
         
         <category>works</category>
         
@@ -481,8 +481,8 @@
 
 </description>
         <pubDate>Mon, 06 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/06/MEG14EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/06/MEG14EN/</guid>
+        <link>/2021/09/06/MEG14EN/</link>
+        <guid isPermaLink="true">/2021/09/06/MEG14EN/</guid>
         
         <category>works</category>
         
@@ -531,8 +531,8 @@
 
 </description>
         <pubDate>Sun, 05 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/05/EmissaryEN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/05/EmissaryEN/</guid>
+        <link>/2021/09/05/EmissaryEN/</link>
+        <guid isPermaLink="true">/2021/09/05/EmissaryEN/</guid>
         
         <category>exhibitions</category>
         
@@ -598,26 +598,10 @@
 &lt;/div&gt;
 </description>
         <pubDate>Sat, 04 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/04/JungleEN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/04/JungleEN/</guid>
+        <link>/2021/09/04/JungleEN/</link>
+        <guid isPermaLink="true">/2021/09/04/JungleEN/</guid>
         
         <category>exhibitions</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>ARTIST</title>
-        <description>&lt;p&gt;&lt;strong&gt;Hu zeqian&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style=&quot;color:gray;font-size:9pt&quot;&gt;An Artist, Creative designer, The founder of hu_zeqian studio&lt;/span&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 01 Sep 2021 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2021/09/01/aboutmeEN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2021/09/01/aboutmeEN/</guid>
-        
-        <category>about</category>
         
         
       </item>
