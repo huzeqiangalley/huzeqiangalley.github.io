@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/2021/09/04/JungleEN/</loc>
+<lastmod>2021-09-04T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>/2021/09/05/EmissaryEN/</loc>
+<lastmod>2021-09-05T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>/2021/09/06/MEG14EN/</loc>
 <lastmod>2021-09-06T00:00:00+08:00</lastmod>
 </url>
@@ -39,6 +47,10 @@
 <url>
 <loc>/2021/09/15/MEG5EN/</loc>
 <lastmod>2021-09-15T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>/2021/09/16/MEG4EN/</loc>
+<lastmod>2021-09-16T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>/2021/09/17/MEG3EN/</loc>
@@ -103,6 +115,9 @@
 </url>
 <url>
 <loc>/</loc>
+</url>
+<url>
+<loc>/tag/exhibitions/</loc>
 </url>
 <url>
 <loc>/tag/works/</loc>
