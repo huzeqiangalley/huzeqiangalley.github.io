@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Jan 2023 16:04:29 +0800</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2023 16:04:29 +0800</lastBuildDate>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 22 Jan 2023 17:13:17 +0800</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2023 17:13:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Tue, 27 Dec 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/12/27/mianpage-01EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/27/mianpage-01EN/</guid>
+        <link>/2022/12/27/mianpage-01EN/</link>
+        <guid isPermaLink="true">/2022/12/27/mianpage-01EN/</guid>
         
         <category>home</category>
         
@@ -69,8 +69,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Fri, 02 Dec 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/12/02/JungleexhibitionEN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/02/JungleexhibitionEN/</guid>
+        <link>/2022/12/02/JungleexhibitionEN/</link>
+        <guid isPermaLink="true">/2022/12/02/JungleexhibitionEN/</guid>
         
         <category>exhibitions</category>
         
@@ -107,8 +107,8 @@
 
 </description>
         <pubDate>Thu, 01 Dec 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/12/01/EmissaryexhibitionEN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/12/01/EmissaryexhibitionEN/</guid>
+        <link>/2022/12/01/EmissaryexhibitionEN/</link>
+        <guid isPermaLink="true">/2022/12/01/EmissaryexhibitionEN/</guid>
         
         <category>exhibitions</category>
         
@@ -127,8 +127,8 @@
 
 </description>
         <pubDate>Fri, 04 Feb 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/02/04/mainpage02EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/02/04/mainpage02EN/</guid>
+        <link>/2022/02/04/mainpage02EN/</link>
+        <guid isPermaLink="true">/2022/02/04/mainpage02EN/</guid>
         
         <category>works</category>
         
@@ -147,8 +147,8 @@
 
 </description>
         <pubDate>Thu, 03 Feb 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/02/03/main01EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/02/03/main01EN/</guid>
+        <link>/2022/02/03/main01EN/</link>
+        <guid isPermaLink="true">/2022/02/03/main01EN/</guid>
         
         <category>works</category>
         
@@ -167,8 +167,8 @@
 
 </description>
         <pubDate>Wed, 02 Feb 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/02/02/emissary00EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/02/02/emissary00EN/</guid>
+        <link>/2022/02/02/emissary00EN/</link>
+        <guid isPermaLink="true">/2022/02/02/emissary00EN/</guid>
         
         <category>works</category>
         
@@ -187,8 +187,8 @@
 
 </description>
         <pubDate>Tue, 01 Feb 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/02/01/emissary001EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/02/01/emissary001EN/</guid>
+        <link>/2022/02/01/emissary001EN/</link>
+        <guid isPermaLink="true">/2022/02/01/emissary001EN/</guid>
         
         <category>works</category>
         
@@ -207,8 +207,8 @@
 
 </description>
         <pubDate>Mon, 31 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/31/emissary002EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/31/emissary002EN/</guid>
+        <link>/2022/01/31/emissary002EN/</link>
+        <guid isPermaLink="true">/2022/01/31/emissary002EN/</guid>
         
         <category>works</category>
         
@@ -227,8 +227,8 @@
 
 </description>
         <pubDate>Sun, 30 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/30/emissary003EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/30/emissary003EN/</guid>
+        <link>/2022/01/30/emissary003EN/</link>
+        <guid isPermaLink="true">/2022/01/30/emissary003EN/</guid>
         
         <category>works</category>
         
@@ -247,8 +247,8 @@
 
 </description>
         <pubDate>Sat, 29 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/29/emissary004EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/29/emissary004EN/</guid>
+        <link>/2022/01/29/emissary004EN/</link>
+        <guid isPermaLink="true">/2022/01/29/emissary004EN/</guid>
         
         <category>works</category>
         
@@ -267,8 +267,8 @@
 
 </description>
         <pubDate>Fri, 28 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/28/emissary005EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/28/emissary005EN/</guid>
+        <link>/2022/01/28/emissary005EN/</link>
+        <guid isPermaLink="true">/2022/01/28/emissary005EN/</guid>
         
         <category>works</category>
         
@@ -287,8 +287,8 @@
 
 </description>
         <pubDate>Thu, 27 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/27/emissary006EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/27/emissary006EN/</guid>
+        <link>/2022/01/27/emissary006EN/</link>
+        <guid isPermaLink="true">/2022/01/27/emissary006EN/</guid>
         
         <category>works</category>
         
@@ -307,8 +307,8 @@
 
 </description>
         <pubDate>Wed, 26 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/26/emissary007EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/26/emissary007EN/</guid>
+        <link>/2022/01/26/emissary007EN/</link>
+        <guid isPermaLink="true">/2022/01/26/emissary007EN/</guid>
         
         <category>works</category>
         
@@ -327,8 +327,8 @@
 
 </description>
         <pubDate>Tue, 25 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/25/emissary008EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/25/emissary008EN/</guid>
+        <link>/2022/01/25/emissary008EN/</link>
+        <guid isPermaLink="true">/2022/01/25/emissary008EN/</guid>
         
         <category>works</category>
         
@@ -347,8 +347,8 @@
 
 </description>
         <pubDate>Mon, 24 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/24/timelapsed01EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/24/timelapsed01EN/</guid>
+        <link>/2022/01/24/timelapsed01EN/</link>
+        <guid isPermaLink="true">/2022/01/24/timelapsed01EN/</guid>
         
         <category>works</category>
         
@@ -367,8 +367,8 @@
 
 </description>
         <pubDate>Sun, 23 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/23/timelapsed02EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/23/timelapsed02EN/</guid>
+        <link>/2022/01/23/timelapsed02EN/</link>
+        <guid isPermaLink="true">/2022/01/23/timelapsed02EN/</guid>
         
         <category>works</category>
         
@@ -387,8 +387,8 @@
 
 </description>
         <pubDate>Sat, 22 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/22/midnightwalk01EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/22/midnightwalk01EN/</guid>
+        <link>/2022/01/22/midnightwalk01EN/</link>
+        <guid isPermaLink="true">/2022/01/22/midnightwalk01EN/</guid>
         
         <category>works</category>
         
@@ -407,8 +407,8 @@
 
 </description>
         <pubDate>Fri, 21 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/21/midnightwalk02EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/21/midnightwalk02EN/</guid>
+        <link>/2022/01/21/midnightwalk02EN/</link>
+        <guid isPermaLink="true">/2022/01/21/midnightwalk02EN/</guid>
         
         <category>works</category>
         
@@ -427,8 +427,8 @@
 
 </description>
         <pubDate>Thu, 20 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/20/midnightwalk03EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/20/midnightwalk03EN/</guid>
+        <link>/2022/01/20/midnightwalk03EN/</link>
+        <guid isPermaLink="true">/2022/01/20/midnightwalk03EN/</guid>
         
         <category>works</category>
         
@@ -447,8 +447,8 @@
 
 </description>
         <pubDate>Wed, 19 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/19/midnightwalk04EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/19/midnightwalk04EN/</guid>
+        <link>/2022/01/19/midnightwalk04EN/</link>
+        <guid isPermaLink="true">/2022/01/19/midnightwalk04EN/</guid>
         
         <category>works</category>
         
@@ -467,8 +467,8 @@
 
 </description>
         <pubDate>Tue, 18 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/18/midnightwalk05EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/18/midnightwalk05EN/</guid>
+        <link>/2022/01/18/midnightwalk05EN/</link>
+        <guid isPermaLink="true">/2022/01/18/midnightwalk05EN/</guid>
         
         <category>works</category>
         
@@ -487,8 +487,8 @@
 
 </description>
         <pubDate>Mon, 17 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/17/midnightwalk06EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/17/midnightwalk06EN/</guid>
+        <link>/2022/01/17/midnightwalk06EN/</link>
+        <guid isPermaLink="true">/2022/01/17/midnightwalk06EN/</guid>
         
         <category>works</category>
         
@@ -507,8 +507,8 @@
 
 </description>
         <pubDate>Sun, 16 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/16/midnightwalk07EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/16/midnightwalk07EN/</guid>
+        <link>/2022/01/16/midnightwalk07EN/</link>
+        <guid isPermaLink="true">/2022/01/16/midnightwalk07EN/</guid>
         
         <category>works</category>
         
@@ -527,8 +527,8 @@
 
 </description>
         <pubDate>Sat, 15 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/15/midnightwalk08EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/15/midnightwalk08EN/</guid>
+        <link>/2022/01/15/midnightwalk08EN/</link>
+        <guid isPermaLink="true">/2022/01/15/midnightwalk08EN/</guid>
         
         <category>works</category>
         
@@ -547,8 +547,8 @@
 
 </description>
         <pubDate>Fri, 14 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/14/generation1EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/14/generation1EN/</guid>
+        <link>/2022/01/14/generation1EN/</link>
+        <guid isPermaLink="true">/2022/01/14/generation1EN/</guid>
         
         <category>works</category>
         
@@ -567,8 +567,8 @@
 
 </description>
         <pubDate>Thu, 13 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/13/generation2EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/13/generation2EN/</guid>
+        <link>/2022/01/13/generation2EN/</link>
+        <guid isPermaLink="true">/2022/01/13/generation2EN/</guid>
         
         <category>works</category>
         
@@ -587,8 +587,8 @@
 
 </description>
         <pubDate>Wed, 12 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/12/generation3EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/12/generation3EN/</guid>
+        <link>/2022/01/12/generation3EN/</link>
+        <guid isPermaLink="true">/2022/01/12/generation3EN/</guid>
         
         <category>works</category>
         
@@ -607,8 +607,8 @@
 
 </description>
         <pubDate>Tue, 11 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/11/generation4EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/11/generation4EN/</guid>
+        <link>/2022/01/11/generation4EN/</link>
+        <guid isPermaLink="true">/2022/01/11/generation4EN/</guid>
         
         <category>works</category>
         
@@ -627,8 +627,8 @@
 
 </description>
         <pubDate>Mon, 10 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/10/generation5EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/10/generation5EN/</guid>
+        <link>/2022/01/10/generation5EN/</link>
+        <guid isPermaLink="true">/2022/01/10/generation5EN/</guid>
         
         <category>works</category>
         
@@ -647,8 +647,8 @@
 
 </description>
         <pubDate>Sun, 09 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/09/generation6EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/09/generation6EN/</guid>
+        <link>/2022/01/09/generation6EN/</link>
+        <guid isPermaLink="true">/2022/01/09/generation6EN/</guid>
         
         <category>works</category>
         
@@ -667,8 +667,8 @@
 
 </description>
         <pubDate>Sat, 08 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/08/revelry3EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/08/revelry3EN/</guid>
+        <link>/2022/01/08/revelry3EN/</link>
+        <guid isPermaLink="true">/2022/01/08/revelry3EN/</guid>
         
         <category>works</category>
         
@@ -687,8 +687,8 @@
 
 </description>
         <pubDate>Fri, 07 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/07/revelry4EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/07/revelry4EN/</guid>
+        <link>/2022/01/07/revelry4EN/</link>
+        <guid isPermaLink="true">/2022/01/07/revelry4EN/</guid>
         
         <category>works</category>
         
@@ -707,8 +707,8 @@
 
 </description>
         <pubDate>Thu, 06 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/06/revelry5EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/06/revelry5EN/</guid>
+        <link>/2022/01/06/revelry5EN/</link>
+        <guid isPermaLink="true">/2022/01/06/revelry5EN/</guid>
         
         <category>works</category>
         
@@ -727,8 +727,8 @@
 
 </description>
         <pubDate>Wed, 05 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/05/reverly6EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/05/reverly6EN/</guid>
+        <link>/2022/01/05/reverly6EN/</link>
+        <guid isPermaLink="true">/2022/01/05/reverly6EN/</guid>
         
         <category>works</category>
         
@@ -747,8 +747,8 @@
 
 </description>
         <pubDate>Tue, 04 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/04/image3EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/04/image3EN/</guid>
+        <link>/2022/01/04/image3EN/</link>
+        <guid isPermaLink="true">/2022/01/04/image3EN/</guid>
         
         <category>works</category>
         
@@ -767,8 +767,8 @@
 
 </description>
         <pubDate>Mon, 03 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/03/image4EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/03/image4EN/</guid>
+        <link>/2022/01/03/image4EN/</link>
+        <guid isPermaLink="true">/2022/01/03/image4EN/</guid>
         
         <category>works</category>
         
@@ -787,8 +787,8 @@
 
 </description>
         <pubDate>Sun, 02 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/02/image5EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/02/image5EN/</guid>
+        <link>/2022/01/02/image5EN/</link>
+        <guid isPermaLink="true">/2022/01/02/image5EN/</guid>
         
         <category>works</category>
         
@@ -807,8 +807,8 @@
 
 </description>
         <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2022/01/01/image6EN/</link>
-        <guid isPermaLink="true">http://localhost:4000/2022/01/01/image6EN/</guid>
+        <link>/2022/01/01/image6EN/</link>
+        <guid isPermaLink="true">/2022/01/01/image6EN/</guid>
         
         <category>works</category>
         
